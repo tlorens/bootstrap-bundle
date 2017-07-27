@@ -1,0 +1,12 @@
+{
+    "name": "tlorens/bootstrap-bundle",
+    "description": "Bootstrap Bundle",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tim Lorens",
+            "email": "tlorens@focal-point.com"
+        }
+    ],
+    "require": {}
+}
